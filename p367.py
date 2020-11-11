@@ -5,8 +5,6 @@ s = input().split()
 n = int(s[0])
 find = s[1]
 
-
-
 count = 0
 
 s = input().split()
